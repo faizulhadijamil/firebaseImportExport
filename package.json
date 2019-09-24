@@ -1,0 +1,14 @@
+{
+  "name": "fbimportexport",
+  "version": "1.0.0",
+  "description": "fbimportexport",
+  "main": "index.js",
+  "scripts": {
+    "test": "node fbimportexport"
+  },
+  "author": "Faizul",
+  "license": "ISC",
+  "dependencies": {
+    "firebase-admin": "^8.6.0"
+  }
+}

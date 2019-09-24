@@ -1,0 +1,27 @@
+exports.schema = {
+	// all_users: {},
+	// feedback: {},
+	// reports: {},
+	// schools: {
+	// 	grades: {},
+	// 	notifications: {},
+	// 	publications: {},
+	// 	users: {},
+    // }
+    users:{},
+    adyTransactions:{},
+    bookings:{},
+    classes:{},
+    gantnerLogs:{},
+    invoices:{},
+    messages:{},
+    packages:{},
+    payments:{},
+    schedules:{},
+    trainers:{},
+    transaction:{},
+    vendCustomers:{},
+    vendProducts:{},
+    vendSales:{},
+    testFCF:{},
+};
